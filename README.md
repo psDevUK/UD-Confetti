@@ -9,6 +9,9 @@ Figured I now got quite a few components on the marketplace so how else better t
 
 Animated confetti on your dashboard with numerous parameter options to allow you to control how the confetti is displayed.
 
+![placeholder](https://raw.githubusercontent.com/psDevUK/UD-Confetti/master/UDConfetti.gif
+"Demonstration of component")
+
 ## DEMO
 
 ```
