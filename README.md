@@ -35,13 +35,22 @@ Start-UDDashboard -Dashboard $dashboard -Port 10005
 ```
 
 ## Parameters
- PiecesNumber      - integer value (default set)
- Wind              - decimal value (default set)
- Gravity           - decimal value (default set)
- InitialVelocityX  - integer value (default set)
- InitialVelocityY  - integer value (default set)
- Colors            - multi string value (default set)
- Opacity           - decimal (default set)
- Recycle           - boolean (default set)
- Run               - boolean (defaulted to false)
- Duration          - integer (default set)
+ **PiecesNumber**  - integer value (default set)
+ 
+ **Wind**              - decimal value (default set)
+ 
+ **Gravity**           - decimal value (default set)
+ 
+ **InitialVelocityX**  - integer value (default set)
+ 
+ **InitialVelocityY**  - integer value (default set)
+ 
+ **Colors**            - multi string value (default set)
+ 
+ **Opacity**           - decimal (default set)
+ 
+ **Recycle**           - boolean (default set)
+ 
+ **Run**               - boolean (defaulted to false)
+ 
+ **Duration**          - integer (default set)
